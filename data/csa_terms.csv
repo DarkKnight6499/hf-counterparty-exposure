@@ -1,0 +1,4 @@
+netting_set,threshold,mta,independent_amount,posted_vm,posted_im,margin_frequency,mpor_days,im_regime
+NS-A,5000000,500000,10000000,8000000,45000000,Daily,10,SIMM
+NS-B,0,250000,20000000,20000000,20000000,Weekly,15,IA_ONLY
+NS-C,2000000,250000,5000000,0,5000000,Daily,20,IA_ONLY

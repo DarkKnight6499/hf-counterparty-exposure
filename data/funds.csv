@@ -1,0 +1,4 @@
+netting_set,counterparty,strategy,nav_usd,gross_leverage,rating_bucket
+NS-A,Meridian Global Macro Fund,Global macro,2500000000,4.0,RB2
+NS-B,Halcyon Rates Relative Value Fund,Rates relative value,600000000,14.0,RB3
+NS-C,Cinder Credit Long/Short Fund,Credit long/short,1200000000,3.0,RB4
